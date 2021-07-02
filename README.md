@@ -18,7 +18,7 @@ git clone https://github.com/luciangreen/List-Prolog-Package-Manager.git
 cd List-Prolog-Package-Manager
 swipl
 ['lppm'].
-lppm_install("luciangreen","LuciansHandBitMap-Font")
+lppm_install("luciangreen","LuciansHandBitMap-Font").
 halt
 ```
 
