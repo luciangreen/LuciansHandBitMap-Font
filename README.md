@@ -62,6 +62,10 @@ A
 `ctobr('A').`
 * Where `'A'` may be replaced with another character name.
 
+# Download Font
+
+You may download <a href="https://www.fontspace.com/lucianshandbitmap-font-f30637">LuciansHandBitMap Font</a>.
+
 # Authors
 
 Lucian Green - Initial programmer - <a href="https://www.lucianacademy.com/">Lucian Academy</a>
